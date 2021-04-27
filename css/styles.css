@@ -1,0 +1,135 @@
+body{
+  text-align: center;
+  background-color:skyblue;
+  line-height:2;
+}
+
+.A{
+  line-height: 1;
+}
+.B{
+  line-height:1;
+}
+.C{
+  line-height:1;
+}
+.D{
+  line-height:1;
+}
+.E{
+  line-height:1;
+}
+.gmail{
+  font-size:30px;
+}
+h1{
+  width:10;
+  margin:0 auto 0 auto;
+}
+
+.Adhiyamaan{
+  text-decoration: underline;
+}
+.Name{
+  font-size:50px;
+}
+hr{
+  background-color:skyblue;
+  border-style:none;
+  border-top-style:dotted;
+  border-width: 2px;
+  width: 300px;
+  border-color:green;
+  border-style:solid;
+}
+
+
+.top-container{
+  font-family: cursive;
+background-color:#7EE4C4;
+}
+
+.Cc{
+  position:absolute;
+  left:930px;
+  height:140px;
+  border-radius:20px;
+}
+.Gc{
+  position:absolute;
+  left:930px;
+  height:140px;
+  border-radius:20px;
+}
+.Obj{
+  line-height:2;
+  text-align:center;
+}
+p{
+  font-size:20px;
+  width:500px;
+  margin: auto;
+  margin-top:20px ;
+}
+
+.Ac{
+  position:absolute;
+  left:330px;
+  height:130px;
+  border-radius:20px;
+}
+
+.Dc{
+  position:absolute;
+  left:330px;
+  height:130px;
+  border-radius:20px;
+}
+.Ca{
+  line-height:2;
+}
+.Cb{
+  line-height:2;
+}
+.Cn{
+  line-height:2;
+}
+.Bc{
+  position:absolute;
+  left:920px;
+  height:130px;
+  border-radius:20px;
+}
+.Ec{
+  position:absolute;
+  left:940px;
+  height:130px;
+  border-radius:20px;
+}
+.Fc{
+  position:absolute;
+  left:280px;
+  height:130px;
+  border-radius:20px;
+}
+
+.Siva{
+  position: relative;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  border-radius:10px;
+}
+
+.bottom-cloud{
+  position: relative;
+  right:200px;
+}
+.top-cloud{
+  position: relative;
+  left:200px;
+}
+.top{
+  font-size:50px;
+  font-style:oblique;
+  font-family:serif;
+}
