@@ -47,16 +47,17 @@ hr{
 .top-container{
   font-family: cursive;
 background-color:#7EE4C4;
+position: static;
 }
 
 .Cc{
-  position:absolute;
+  position:static;
   left:930px;
   height:140px;
   border-radius:20px;
 }
 .Gc{
-  position:absolute;
+  position:static;
   left:930px;
   height:140px;
   border-radius:20px;
@@ -73,14 +74,14 @@ p{
 }
 
 .Ac{
-  position:absolute;
+  position:static;
   left:330px;
   height:130px;
   border-radius:20px;
 }
 
 .Dc{
-  position:absolute;
+  position:static;
   left:330px;
   height:130px;
   border-radius:20px;
@@ -95,26 +96,26 @@ p{
   line-height:2;
 }
 .Bc{
-  position:absolute;
+  position:static;
   left:920px;
   height:130px;
   border-radius:20px;
 }
 .Ec{
-  position:absolute;
+  position:static;
   left:940px;
   height:130px;
   border-radius:20px;
 }
 .Fc{
-  position:absolute;
+  position:static;
   left:280px;
   height:130px;
   border-radius:20px;
 }
 
 .Siva{
-  position: relative;
+  position: static;
   margin-bottom: 20px;
   margin-top: 20px;
   border-radius:10px;
